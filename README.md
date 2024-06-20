@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">I study at Wikrama Vocational School Bogor</h3>
 
 - 📫 How to reach me **ardan5124@gmail.com**
 
